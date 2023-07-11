@@ -6,5 +6,5 @@ namespace App;
 
 interface GetCapitalServiceInterface
 {
-	public function get(string $country): string;
+    public function get(string $country): string;
 }
