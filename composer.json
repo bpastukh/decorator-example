@@ -1,0 +1,17 @@
+{
+    "name": "bgph/decorator",
+    "description": "Decorator pattern example",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bohdan Pastukh",
+            "email": "bg.pastukh@gmail.com"
+        }
+    ],
+    "require": {}
+}
